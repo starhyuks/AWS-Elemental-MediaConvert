@@ -35,4 +35,4 @@ Hands-On 실습이 완료되면 아래와 같은 절차로 MediaConvert & Lambda
 <br>
 
 ![image](./images/Screen-3.png)
-* AWS Tokyo 리전 MediaConvert & Lambda 구성 실습 캡처 화면 
+* AWS Tokyo 리전 MediaConvert & Lambda 자동화 구성 Hands-On 실습 캡처 화면 
