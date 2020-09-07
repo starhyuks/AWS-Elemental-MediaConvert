@@ -1,2 +1,1 @@
-# AWS-ElementalMediaConvert
-Cloud &amp; Media
+# AWS-KinesisVideoStream
