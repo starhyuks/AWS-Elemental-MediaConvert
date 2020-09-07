@@ -22,6 +22,7 @@ https://github.com/aws-samples/aws-media-services-simple-vod-workflow/tree/maste
 - [2] Automating MediaConvert Jobs with Lambda 진행 <br>
 https://github.com/aws-samples/aws-media-services-simple-vod-workflow/tree/master/7-MediaConvertJobLambda
 
+<br>
 
 Hands-On 실습은 [1]에서 IAM Role 생성 후 [2] 진행을 권장
 
